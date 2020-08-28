@@ -153,12 +153,12 @@
 
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
 
 const rpnApi = axios.create({
   baseURL: '<?= base_url()?>/',
-  timeout: 1000,
+  timeout: 6000,
   headers: {'X-Custom-Header': 'xxx'}
 });
 

@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://rpn.id/';
+	public $baseURL = 'http://rpn.activa.co.id';
 
 	/*
 	|--------------------------------------------------------------------------
