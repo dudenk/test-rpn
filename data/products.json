@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Palmarin",
+            "price": 600000
+        },
+        {
+            "id": 2,
+            "name": "Sucrosin",
+            "price": 500000
+        },
+        {
+            "id": 3,
+            "name": "Kecambah",
+            "price": 7500
+        },
+        {
+            "id": 4,
+            "name": "Bioneensis",
+            "price": 20000
+        },
+        {
+            "id": 5,
+            "name": "NanoDecALB",
+            "price": 150000
+        }
+    ]
+}
